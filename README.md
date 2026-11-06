@@ -1,0 +1,2 @@
+# slot-A
+redmi
